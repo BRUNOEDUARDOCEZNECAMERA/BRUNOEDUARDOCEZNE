@@ -1,6 +1,6 @@
-Bem vindo ao meu perfi.
+Boas vindas ao meu perfi. 💙
 
-Meu nome é Bruno eduardo cezne.
+Meu nome é **Bruno Eduardo Cezne Camera**.
 
 Estou estudando no alura
 estou me desenvolvendo na linquagem javascript
